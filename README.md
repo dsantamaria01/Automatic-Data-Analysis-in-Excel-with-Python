@@ -9,4 +9,4 @@ Different methods will be used to perform the proposed analysis following standa
 
 We will use libraries such as: Pandas for data analysis, Selenium to take the necessary data from the web, and libraries such as openpyxl that will allow us to use .xls files.
 
-Translated with www.DeepL.com/Translator (free version)
+ 
